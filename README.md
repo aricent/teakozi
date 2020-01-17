@@ -14,7 +14,7 @@ Teakozi is a declarative REST API testing framework for testing micro-services. 
 
 # How to use Teakozi
 
-  - include teakozi in your node application
+  - include teakozi in your node application / service 
 
 ```sh
 $ npm install teakozi
